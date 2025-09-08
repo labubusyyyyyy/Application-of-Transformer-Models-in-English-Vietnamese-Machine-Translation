@@ -37,7 +37,6 @@ Kết quả huấn luyện được minh họa qua biểu đồ loss và các me
 ## 4. Hướng dẫn chạy
 1. Chuẩn bị dữ liệu:
    - `train.en` + `train.vi`
-   - (tùy chọn) `valid.en` + `valid.vi`
 2. Cài đặt môi trường:
    ```bash
    python -m venv .venv
